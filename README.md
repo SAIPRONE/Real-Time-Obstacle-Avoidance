@@ -1,6 +1,8 @@
 # 🐜 Ant Colony Optimization Pathfinding
 ![Real-time Obstacle Avoidance_test#2](https://github.com/SAIPRONE/Real-Time-Obstacle-Avoidance/assets/95390348/e1c0239b-c3f7-4d99-9826-3ab650e1fffe)
 ![Real-time Obstacle Avoidance_test#4](https://github.com/SAIPRONE/Real-Time-Obstacle-Avoidance/assets/95390348/97386eaf-f880-4bb1-8f22-880506a53f26)
+![Real-time Obstacle Avoidance_test#6](https://github.com/SAIPRONE/Real-Time-Obstacle-Avoidance/assets/95390348/fd3b5fcd-ee3a-4157-912c-71562f293c7d)
+
 This repository implements the Ant Colony Optimization (ACO) algorithm for pathfinding in a grid world with obstacles. The graphical representation of the grid world and the path is achieved using the `tkinter` library.
 
 ## 🌟 Features
