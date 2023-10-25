@@ -38,5 +38,5 @@ This project is open-source and available under the BSD3 License.
 ## 📚 Sources
 For more information about the Ant Colony Optimization algorithm:
 - [Ant Colony Optimization](https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms) - Wikipedia
-- [Intelligent Optimization Algorithm-Based Path Planning for a Mobile Robot]([https://www.scholarpedia.org/article/Ant_colony_optimization](https://www.hindawi.com/journals/cin/2021/8025730/)https://www.hindawi.com/journals/cin/2021/8025730/) - Scholarpedia
+- [Intelligent Optimization Algorithm-Based Path Planning for a Mobile Robot]([https://www.scholarpedia.org/article/Ant_colony_optimization](https://www.hindawi.com/journals/cin/2021/8025730/)https://www.hindawi.com/journals/cin/2021/8025730/) 
 
